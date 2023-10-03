@@ -15,10 +15,10 @@ const Projects = () => {
                 Check out my work!
             </span>
             <div className='projectImgs'>
-                <a href="https://github.com/SarahSquyres/GSDone" target="_blank" >
+                <a href="https://codewizard-5cb0dd220207.herokuapp.com/" target="_blank" >
                     <img src={Portfolio1} alt="" className='projectImg' />
                 </a>
-                <a href="https://github.com/SarahSquyres/weather-app" target="_blank">
+                <a href="https://github.com/SarahSquyres/GSDone" target="_blank">
                     <img src={Portfolio2} alt="" className='projectImg' />
                 </a>
                 <a href="https://github.com/SarahSquyres/challenge-13-ecommerce" target="_blank">
