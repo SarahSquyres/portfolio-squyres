@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/squyres-portfolio/static/css/main.35928d6c.css",
+    "main.js": "/squyres-portfolio/static/js/main.8e941c8c.js",
+    "static/media/portfolio-6.png": "/squyres-portfolio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/squyres-portfolio/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-4.png": "/squyres-portfolio/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/squyres-portfolio/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/image.png": "/squyres-portfolio/static/media/image.c1726b419406e3605857.png",
+    "static/media/portfolio-5.png": "/squyres-portfolio/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/squyres-portfolio/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/linkedin.png": "/squyres-portfolio/static/media/linkedin.65c6e3e200dc389510c7.png",
+    "static/media/github-icon.png": "/squyres-portfolio/static/media/github-icon.1e18f950c3c90c1c655f.png",
+    "index.html": "/squyres-portfolio/index.html",
+    "main.35928d6c.css.map": "/squyres-portfolio/static/css/main.35928d6c.css.map",
+    "main.8e941c8c.js.map": "/squyres-portfolio/static/js/main.8e941c8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35928d6c.css",
+    "static/js/main.8e941c8c.js"
+  ]
+}
