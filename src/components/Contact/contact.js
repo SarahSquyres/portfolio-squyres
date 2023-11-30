@@ -28,9 +28,9 @@ const Contact = () => {
                     Please fill out the form if you have any questions!
                 </span>
                 <form className='contactForm' ref={form} onSubmit={sendEmail}>
-                    <input type='text' className='name' placeholder='Your Name' name="from_name" required />
-                    <input type='email' className='email' placeholder='Email' name="from_email" required />
-                    <textarea className='msg' name="message" rows="5" placeholder='Your message here' required ></textarea>
+                    <input type='text' className='name' placeholder="What's your name?" name="from_name" required />
+                    <input type='email' className='email' placeholder='Please provide your email.' name="from_email" required />
+                    <textarea className='msg' name="message" rows="5" placeholder='Your message...' required ></textarea>
                     <button type="submit" value="Send" className="submitBtn">Submit</button>
                     <div className='links'>
                         <a href="https://github.com/SarahSquyres" target="_blank">
