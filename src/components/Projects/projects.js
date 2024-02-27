@@ -15,23 +15,14 @@ const Projects = () => {
                 Check out my work!
             </span>
             <div className='projectImgs'>
+                <a href="https://arriba-stocks-94c27f9624eb.herokuapp.com/" target="_blank">
+                    <img src={Portfolio3} alt="" className='projectImg' />
+                </a>
                 <a href="https://codewiz-b31070f07060.herokuapp.com/" target="_blank" >
                     <img src={Portfolio1} alt="" className='projectImg' />
                 </a>
                 <a href="https://gsdone-2f10065746b9.herokuapp.com/" target="_blank">
                     <img src={Portfolio2} alt="" className='projectImg' />
-                </a>
-                <a href="https://github.com/SarahSquyres/challenge-13-ecommerce" target="_blank">
-                    <img src={Portfolio3} alt="" className='projectImg' />
-                </a>
-                <a href="https://github.com/SarahSquyres/employee-tracker" target="_blank">
-                    <img src={Portfolio4} alt="" className='projectImg' />
-                </a>
-                <a href="https://github.com/SarahSquyres/note-taker" target="_blank">
-                    <img src={Portfolio5} alt="" className='projectImg' />
-                </a>
-                <a href="https://github.com/SarahSquyres/day-scheduler" target="_blank">
-                    <img src={Portfolio6} alt="" className='projectImg' />
                 </a>
             </div>
         </section>
