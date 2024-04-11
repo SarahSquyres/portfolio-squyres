@@ -37,7 +37,7 @@ The Resume link will take the user directly to my Google Docs Resume.  Also, the
 
 GitHub Repository: https://github.com/SarahSquyres/squyres-portfolio 
 
-Deployed Application: https://SarahSquyres.github.io/squyres-portfolio 
+Deployed Application: https://squyres-portfolio-077523396b85.herokuapp.com/ 
 
 
 ### Credits
