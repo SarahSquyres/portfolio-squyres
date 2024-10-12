@@ -15,7 +15,7 @@ const Projects = () => {
                 Check out my work!
             </span>
             <div className='projectImgs'>
-                <a href="https://arriba-stocks-94c27f9624eb.herokuapp.com/" target="_blank">
+                <a href="https://arribastocks-c926d8455c48.herokuapp.com/" target="_blank">
                     <img src={Portfolio3} alt="" className='projectImg' />
                 </a>
                 <a href="https://codewiz-b31070f07060.herokuapp.com/" target="_blank" >

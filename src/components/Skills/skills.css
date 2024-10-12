@@ -16,6 +16,7 @@
     font-weight: 600;
     padding-top: 3rem;
     margin-bottom: 1.5rem;
+    align-items: center;
 }
 
 .skillDesc {
@@ -24,4 +25,12 @@
     max-width: 50rem;
     padding: 0 2rem;
     text-align: left;
+}
+
+.list-item-title {
+    font-weight: bold;
+}
+
+.list-item {
+    list-style: none;
 }
